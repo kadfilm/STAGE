@@ -10,7 +10,7 @@
 
 ---
 
-## 🇬🇧 ENGLISH DOCUMENTATION
+## ENGLISH
 
 ### USER GUIDE
 
@@ -136,7 +136,7 @@ The system compiles the visual timeline representation into Lua code.
 ---
 ---
 
-## RUSSIAN DOCUMENTATION
+## RUSSIAN
 
 ### РУКОВОДСТВО ПОЛЬЗОВАТЕЛЯ
 
